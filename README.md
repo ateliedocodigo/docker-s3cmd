@@ -8,6 +8,8 @@ Current version installed is `2.0.2`, but you can change this at runtime.
 # Supported tags and respective `Dockerfile` links
 
 - [`latest` `alpine3.7` (*alpine3.7/Dockerfile*)](https://github.com/rbsdev/docker-s3cmd/blob/master/alpine3.7/Dockerfile)
+* Under development image
+-- [**`develop`** (*alpine3.7/Dockerfile*)](https://github.com/rbsdev/docker-s3cmd/blob/master/alpine3.7/Dockerfile)
 
 Usage
 -----
